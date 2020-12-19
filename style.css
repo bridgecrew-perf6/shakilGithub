@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    background: #3a2f2f;
+    color: #fff;
+}
+.jumbotron {
+    margin: 0;
+    height: calc(100vh - 60px);
+}
